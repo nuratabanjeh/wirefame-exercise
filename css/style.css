@@ -69,8 +69,10 @@ nav ul li a{
 }
 .ttl{
     position: relative;
-    left: 50%;
-    bottom: 425px;
+    float: right;
+    left: -20%;
+    /* left: 50%; */
+    bottom: -5px;
 }
 .para{
     width: 450px;
@@ -78,6 +80,7 @@ nav ul li a{
     overflow: scroll;
     text-align: justify;
     overflow: hidden;
+    display : block; overflow-wrap: break-word; max-height : 320px;
 }
 .btn{
     background-color: black;
@@ -92,7 +95,8 @@ footer{
     position: relative;
     width: 100%;
     height: 100px;
-    margin-top: -25%;
+    margin-top: 30px;
+    
 
     background-color: rgb(56, 53, 53) ;
    
