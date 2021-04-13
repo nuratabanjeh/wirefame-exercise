@@ -1,6 +1,7 @@
 header{
     background-color: rgb(56, 53, 53);
     margin-bottom: 30px;
+   
     padding-bottom: 2%;
     
     
@@ -31,4 +32,27 @@ nav ul li{
 nav ul li a{
     color: white;
     text-decoration: none;
+}
+
+#hero{
+    margin-top: 30px;
+    position: relative;
+    margin-left: 17%;
+}
+
+#num1{
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 17%;
+}
+#num2{
+    margin-top: 30px;
+    display: inline-block;
+    margin-left:1.7%;
+
+}
+#num3{
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 1.73%;
 }
